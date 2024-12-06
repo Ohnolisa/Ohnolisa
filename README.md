@@ -2,8 +2,8 @@
  🌱 Bem vindo ao meu perfil!
 --- 
 * ❤️ Eu me chamo Heloisa.
- * 📚 Estudante de Desenvolvimento Web
-* ☘️ Sou iniciante
+ * 📚 Técnico em Desenvolvimento de Sistemas - Senac
+* ☘️ Web Designer
 * 💕 Contate-me no email: helobloot@gmail.com
 * 🎂 23 Anos
 * 
